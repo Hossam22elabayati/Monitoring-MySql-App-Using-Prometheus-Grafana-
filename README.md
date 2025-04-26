@@ -207,7 +207,7 @@ volumes:
 ```
 
 ### open grafana -> <your-ip>:3000   
-username: admin 
+username: admin  , 
 password: admin
 
 ![image](https://github.com/user-attachments/assets/7acf67d9-468f-4144-bfc1-1c2160496764)
