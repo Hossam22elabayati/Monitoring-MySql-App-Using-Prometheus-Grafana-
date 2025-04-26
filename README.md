@@ -183,7 +183,7 @@ sudo vim /etc/prometheus/prometheus.yml
 ![image](https://github.com/user-attachments/assets/e5fee025-86f2-40a9-abb1-f1d6bebe4505)
 
 
-##### install Grafana and integrate with Prometheus
+## install Grafana and integrate with Prometheus
 
 ### Grafana as a docker container 
 install docker first : https://docs.docker.com/engine/install/ubuntu/
