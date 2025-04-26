@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/068f26a6-981b-497c-b295-7a58ed0d9472)# Monitoring-MySql-App-Using-Prometheus-Grafana
+# Monitoring-MySql-App-Using-Prometheus-Grafana
 
 #### Setup Aws Ec2 ( promethus server , mysql app ) 
 ![image](https://github.com/user-attachments/assets/7a21591d-dfc1-4819-9385-00dffe76b774)
