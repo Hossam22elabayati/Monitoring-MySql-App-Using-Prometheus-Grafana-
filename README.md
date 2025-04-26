@@ -206,7 +206,8 @@ volumes:
  sudo docker compose up -d
 ```
 
-### open grafana -> <your-ip>:3000   
+### open grafana :
+<your-ip>:3000   
 username: admin  , 
 password: admin
 
